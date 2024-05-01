@@ -1,0 +1,7 @@
+ECG Record,Sample Rate,Duration,Hospital Unit,Date of Recording,Gender,Age,Health Conditions,Heart Image Path
+416,500,8,Cardiology,2024-01-10,Female,34,None,..data/images/422.png
+418,500,8,Cardiovascular Surgery,2023-11-21,Male,21,"Hypertension, Diabetes",..data/images/424.png
+420,300,10,Emergency,2024-01-15,Male,50,Atrial Fibrillation,..data/images/416.png
+426,400,16,Endocrinology,2023-012-02,Female,23,Diabetes,..data/images/426.png
+422,500,9,Cardiology,2024-02-01,Male,45,Hypertension,..data/images/418.png
+424,400,15,Endocrinology,2023-09-02,Female,55,Diabetes,..data/images/420.png
