@@ -1,7 +1,7 @@
 # ECG-Technical-Test
  ECG Technical Test
 
-Task 1:
+Task 1: [Click here to see submission notebook ](https://github.com/AbdallahAbou/ECG-Technical-Test/tree/main/Task%201)
 
 
 You are a researcher trying to organize the ECG recordings you obtained from various units at
@@ -40,7 +40,7 @@ years old long you have collected
 
 
 
-Task 2:
+Task 2: [Click here to see submission notebook ](https://github.com/AbdallahAbou/ECG-Technical-Test/tree/main/Task%202)
 
 Take a look at this dataset from physionet: ECG Fragment Database for the Exploration of
 Dangerous Arrhythmia v1.0.0 (physionet.org)
